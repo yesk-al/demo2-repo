@@ -1,2 +1,2 @@
 # demo
-for practice purpose
+for practice for the first class intro..
