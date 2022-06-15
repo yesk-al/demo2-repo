@@ -6,3 +6,6 @@ for practice for the first class intro..
 add new file
 
 good comunication skill
+
+
+the best way to do things ...
